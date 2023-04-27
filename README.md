@@ -9,14 +9,20 @@
  6. De seguida presione Enter para continuar com a instalação do agente.
  
  
-## Instalação do Windows Monitoring Agent a partir de um exxecutável
+## Instalação do Windows Monitoring Agent a partir de um executável
 
  3. Acesa o diretório com os conteúdos de instalação do agente <b>Ex:cd C:\Desktop\Agente</b>.
  4. Encontre o ficheiro WindowsMonitoringAgentInstallation.exe e executá-o como Administrador.
  5. Introduz o endereço IP e a porta do servidor.
  6. Presione Enter para continuar com a instalação do agente.
  
+
  # Desinstalação do Windows Monitoring Agent
  ## Desinstalação do Windows Monitoring Agent a partir da linha de comandos
+ 1. Abra o Power Shell como Administrador.
+ 2. Acesa o diretório com os conteúdos de desinstalação do agente <b>Ex:cd C:\Desktop\Agente\WindowsMonitoringAgent</b>.
+ 3. Execute o seguinte comando <b>Uninstall-Monitoring-Service.ps1</b>.
+ 
+ ## Desinstalação do Windows Monitoring Agent a partir de um executável
  1. Acesa o diretório com os conteúdos de desinstalação do agente <b>Ex:cd C:\Desktop\Agente\WindowsMonitoringAgent</b>.
  2. Encontre o ficheiro Uninstall-Monitoring-Service.exe e executá-o como Administrador.
